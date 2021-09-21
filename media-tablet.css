@@ -1,0 +1,121 @@
+@media (max-width : 768px) {
+    .header {
+        height: 600px;
+    }
+
+    .cover {
+        background-size:870px;
+    }
+
+    .cover .container {
+        width: 55%;
+        height: 500px;
+        margin-left: 55px;
+    }
+
+    .header h1 {
+        font-size: 4.0rem;
+    }
+
+    .header h2 {
+        font-size: 2.0rem;
+    }
+
+    .cover .row {
+        width: 95%;
+    }
+
+    .specialisation .main-text, .book_now .main-text {
+        width: 90%;
+    }
+
+    .call_us .wrap {
+        width: 100%;
+        display: inline;
+    }
+
+    .call_us .wrap img {
+        width: 700px;
+    }
+
+    .call_us .left_part, .call_us .right_part, .quality .container {
+        width: 100%;
+    }
+    
+
+    .call_us .text {
+        padding-left: 50px;
+    }
+
+    .call_us p {
+        width: 85%;
+    }
+
+    .quality, .quality img {
+        height: 520px;
+    }
+
+    .quality .box h1 {
+        font-size: 2.7rem;
+    }
+    
+    .quality .box p {
+        font-size: 1.1rem;
+        line-height: 1.5;
+    }
+
+    .services .box {
+        margin: 0px 20px;
+    }
+
+    .services p {
+        margin-left: 20px;
+    }
+
+    .services .container {
+        display: inline-block;
+        width: 32.0%;
+        padding: 30px;
+        line-height: 1.5;
+    }
+
+    .about_us .box {
+        flex-direction: column;
+    }
+
+    .about_us .text-container {
+        justify-content: center;
+        padding-left: 0px;
+        margin-bottom: 0px;
+    }
+    
+    .about_us .plumbing {
+        font-size: 4.0rem;
+    }
+
+    .about_us .text-container, .about_us .img-container {
+        width: 100%;
+    }
+
+    .about_us .img-container {
+        margin-top: 30px;
+    }
+
+    .about_us .img-container .wrap {
+        width: 93%;
+    }
+
+    .about_us img {
+        width: 320px;
+        height: 300px;
+    }
+
+    .book_now .main-text p {
+        font-size: 1.83rem;
+        padding: 10px 30px;
+    }
+
+    .book_now .main-text h1 {
+        font-size: 2.0rem;
+    }
+}
